@@ -1,0 +1,17 @@
+
+
+
+.cardlist {
+  display: inline-block;
+  background-color: rgb(143, 234, 148);
+  align-content: center;
+  text-align: center;
+  margin: 7px;
+  border-radius: 8%;
+  box-shadow: 9px 14px 29px -2px #575757;
+}
+
+.cardlist:hover{
+  border: 3px;
+}
+
